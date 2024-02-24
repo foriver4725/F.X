@@ -1,0 +1,5 @@
+slime  いらすとや
+winner  DOVA-SYNDROME  by FLASH☆BEAT
+clock  OtoLogic
+ButtonClick  効果音ラボ
+UltUsed  効果音ラボ
